@@ -3,7 +3,7 @@ For TG799vac and TG800vac only!
 
 Run on modem command line:
 
-$ wget https://github.com/kevdagoat/TG799-800-improvements/GUI.tar.bz2 -P /tmp 
+$ wget -P /tmp http://github.com/kevdagoat/TG799-800-improvements/blob/master/GUI.tar.bz2?raw=true 
 
 $ bzcat /tmp/GUI.tar.bz2 | tar -C / -xvf -
 
