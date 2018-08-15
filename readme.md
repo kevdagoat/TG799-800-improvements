@@ -7,6 +7,8 @@ Run on modem command line:
 
 $ wget -P /tmp http://github.com/kevdagoat/TG799-800-improvements/blob/master/GUI.tar.bz2?raw=true 
 
+If This method doesn't work, copy the file over to the /tmp dir manually using something like WinSCP.
+
 $ bzcat /tmp/GUI.tar.bz2 | tar -C / -xvf -
 
 $ /etc/init.d/rootdevice force
