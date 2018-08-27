@@ -13,4 +13,4 @@ If This method doesn't work, copy the file over to the /tmp dir manually using s
 
 $ bzcat /tmp/GUI.tar.bz2 | tar -C / -xvf -
 
-$ /etc/init.d/rootdevice force
+
