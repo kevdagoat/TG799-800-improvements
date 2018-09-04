@@ -1,3 +1,7 @@
+
+### THIS REPO IS NOW OBSOLETE
+
+
 This will fix the missing image problem when installing on a TG799 or TG800.
 
 To install:
